@@ -1,3 +1,3 @@
 # meridian
 An open-source MMM(marketing mix modeling) built by Google.
-Official document : <https://developers.google.com/meridian/docs/basics/about-the-project>
+<https://developers.google.com/meridian/docs/basics/about-the-project>
