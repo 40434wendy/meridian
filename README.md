@@ -1,4 +1,5 @@
-# About the repo
+# README
+## About the repo
 A went through for data exploration and demonstration for the open-source package Meridian (using simulated data).
 
 ## Introduction
